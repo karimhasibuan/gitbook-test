@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to My Blog](README.md)
+* [👋 Welcome to My Blog - Daily](README.md)
 
 ## Overview
 
